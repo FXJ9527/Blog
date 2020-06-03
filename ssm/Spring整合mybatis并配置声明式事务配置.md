@@ -1,6 +1,6 @@
 jar
 
-![spring整合mybatis所需jar包](../images/83485171-11b2a400-a4d9-11ea-93d1-d71a5c3abfa6.png)
+![spring-mybatis-jar](../images/spring-mybatis-jar.png)
 
 web.xml
 ```
